@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Monihha Mariyappan
 
-<!--
-**monihham2005-create/monihham2005-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence & Data Science Student
 
-Here are some ideas to get you started:
+💻 Java • Python • DSA • React • Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Full Stack Development
+- Machine Learning
+- Cloud Computing
+
+📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/monihha-mariyappan-0bb0a4325
+
+---
+
+## 📊 GitHub Stats
+
+![Monihha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monihham2005&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=monihham2005&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monihham2005&layout=compact&theme=tokyonight)
+
+---
+
+⭐ Thanks for visiting my profile!
